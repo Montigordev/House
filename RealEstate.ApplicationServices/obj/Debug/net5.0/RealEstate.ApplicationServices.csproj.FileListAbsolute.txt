@@ -1,0 +1,17 @@
+C:\Users\monti\Desktop\RealEstateProject\RealEstate.ApplicationServices\bin\Debug\net5.0\RealEstate.ApplicationServices.deps.json
+C:\Users\monti\Desktop\RealEstateProject\RealEstate.ApplicationServices\bin\Debug\net5.0\RealEstate.ApplicationServices.dll
+C:\Users\monti\Desktop\RealEstateProject\RealEstate.ApplicationServices\bin\Debug\net5.0\ref\RealEstate.ApplicationServices.dll
+C:\Users\monti\Desktop\RealEstateProject\RealEstate.ApplicationServices\bin\Debug\net5.0\RealEstate.ApplicationServices.pdb
+C:\Users\monti\Desktop\RealEstateProject\RealEstate.ApplicationServices\bin\Debug\net5.0\RealEstate.Core.dll
+C:\Users\monti\Desktop\RealEstateProject\RealEstate.ApplicationServices\bin\Debug\net5.0\RealEstate.Data.dll
+C:\Users\monti\Desktop\RealEstateProject\RealEstate.ApplicationServices\bin\Debug\net5.0\RealEstate.Core.pdb
+C:\Users\monti\Desktop\RealEstateProject\RealEstate.ApplicationServices\bin\Debug\net5.0\RealEstate.Data.pdb
+C:\Users\monti\Desktop\RealEstateProject\RealEstate.ApplicationServices\obj\Debug\net5.0\RealEstate.ApplicationServices.csprojAssemblyReference.cache
+C:\Users\monti\Desktop\RealEstateProject\RealEstate.ApplicationServices\obj\Debug\net5.0\RealEstate.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monti\Desktop\RealEstateProject\RealEstate.ApplicationServices\obj\Debug\net5.0\RealEstate.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\monti\Desktop\RealEstateProject\RealEstate.ApplicationServices\obj\Debug\net5.0\RealEstate.ApplicationServices.AssemblyInfo.cs
+C:\Users\monti\Desktop\RealEstateProject\RealEstate.ApplicationServices\obj\Debug\net5.0\RealEstate.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\monti\Desktop\RealEstateProject\RealEstate.ApplicationServices\obj\Debug\net5.0\RealEstate.ApplicationServices.csproj.CopyComplete
+C:\Users\monti\Desktop\RealEstateProject\RealEstate.ApplicationServices\obj\Debug\net5.0\RealEstate.ApplicationServices.dll
+C:\Users\monti\Desktop\RealEstateProject\RealEstate.ApplicationServices\obj\Debug\net5.0\ref\RealEstate.ApplicationServices.dll
+C:\Users\monti\Desktop\RealEstateProject\RealEstate.ApplicationServices\obj\Debug\net5.0\RealEstate.ApplicationServices.pdb

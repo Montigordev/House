@@ -1,0 +1,12 @@
+C:\Users\monti\Desktop\Autod-master\Autod.Core\bin\Debug\net5.0\Autod.Core.deps.json
+C:\Users\monti\Desktop\Autod-master\Autod.Core\bin\Debug\net5.0\Autod.Core.dll
+C:\Users\monti\Desktop\Autod-master\Autod.Core\bin\Debug\net5.0\ref\Autod.Core.dll
+C:\Users\monti\Desktop\Autod-master\Autod.Core\bin\Debug\net5.0\Autod.Core.pdb
+C:\Users\monti\Desktop\Autod-master\Autod.Core\obj\Debug\net5.0\Autod.Core.csprojAssemblyReference.cache
+C:\Users\monti\Desktop\Autod-master\Autod.Core\obj\Debug\net5.0\Autod.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monti\Desktop\Autod-master\Autod.Core\obj\Debug\net5.0\Autod.Core.AssemblyInfoInputs.cache
+C:\Users\monti\Desktop\Autod-master\Autod.Core\obj\Debug\net5.0\Autod.Core.AssemblyInfo.cs
+C:\Users\monti\Desktop\Autod-master\Autod.Core\obj\Debug\net5.0\Autod.Core.csproj.CoreCompileInputs.cache
+C:\Users\monti\Desktop\Autod-master\Autod.Core\obj\Debug\net5.0\Autod.Core.dll
+C:\Users\monti\Desktop\Autod-master\Autod.Core\obj\Debug\net5.0\ref\Autod.Core.dll
+C:\Users\monti\Desktop\Autod-master\Autod.Core\obj\Debug\net5.0\Autod.Core.pdb

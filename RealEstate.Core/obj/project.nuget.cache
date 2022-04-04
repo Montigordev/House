@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "X7lbuHCtFssfw5WL3H/6TaJAa1KDHAlKTib3ILuW5Vv6dJEvLcA+hWSKwtYucsOzDgH3x2VuBurWVxOPwX+wug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\monti\\Desktop\\RealEstateProject\\RealEstate.Core\\RealEstate.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\monti\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.12\\microsoft.aspnetcore.http.features.5.0.12.nupkg.sha512",
+    "C:\\Users\\monti\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\monti\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
